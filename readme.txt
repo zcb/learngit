@@ -2,4 +2,4 @@
 2
 gpl
 Git tracks changes of files.
-dev branch modified
+Creating a new branch is quick AND simple.
